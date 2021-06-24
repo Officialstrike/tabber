@@ -1,0 +1,11 @@
+[package]
+name = "first_project_bindings"
+version = "0.0.0"
+edition = "2018"
+authors = ["Officialstrike"]
+
+[dependencies]
+windows = "0.10.0"
+
+[build-dependencies]
+windows = "0.10.0"

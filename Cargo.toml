@@ -1,0 +1,12 @@
+[package]
+name = "tabber"
+version = "0.1.0"
+authors = ["Officialstrike"]
+edition = "2018"
+description = "A program which tabs to vscode."
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
+bindings = { package = "first_project_bindings", path = "bindings" }
+regex = "1.5.4"
