@@ -38,7 +38,7 @@
 ## About The Project
 Tabber was created to make your work flow more fluid, by building a program which opens a specific tab. In this case its built for Visual Studio Code, and you can bind this program to a hotkey to easily open VSC.
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 
 <!-- GETTING STARTED -->
 
